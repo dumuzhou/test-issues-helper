@@ -2,6 +2,7 @@ name: Outdated Version Action
 
 on:
   issue_comment:
+  
     types: [created]
 
 jobs:
